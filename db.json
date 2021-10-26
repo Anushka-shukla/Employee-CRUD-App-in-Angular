@@ -1,0 +1,52 @@
+{
+  "posts": [
+    {
+      "id": 4,
+      "firstName": "Anushka",
+      "lastName": "sharma",
+      "email": "shuklaannushka@gmail.com",
+      "salary": "12000"
+    },
+    {
+      "id": 7,
+      "firstName": "Anushka",
+      "lastName": "shuklaannushka@gmail.com",
+      "email": "shuklaannushka@gmail.com",
+      "salary": "12000"
+    },
+    {
+      "id": 8,
+      "firstName": "Anushka",
+      "lastName": "shuklaannushka@gmail.com",
+      "email": "shuklaannushka@gmail.com",
+      "salary": "12000"
+    },
+    {
+      "id": 11,
+      "firstName": "shiny",
+      "lastName": "shukla",
+      "email": "shinyshukla@gmail.com",
+      "salary": "1000000"
+    },
+    {
+      "id": 13,
+      "firstName": "Hinesh",
+      "lastName": "adanani",
+      "email": "hinsesh@gmail.com",
+      "mobileNo": "782787288",
+      "salary": "120000"
+    },
+    {
+      "id": 15,
+      "firstName": "uuuuuuu",
+      "lastName": "lllllllll",
+      "email": "lllllllll",
+      "mobileNo": "7877980",
+      "salary": "89000"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
