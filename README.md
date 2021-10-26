@@ -8,6 +8,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 A screen like below will show up:
 ![WhatsApp Image 2021-10-26 at 1 03 06 PM](https://user-images.githubusercontent.com/47845585/138829822-80f812e5-396d-40e8-9314-b7a2363d53df.jpeg)
 
+For backend I have used json-server(https://www.npmjs.com/package/json-server) which is running on `http://localhost:3000/` 
+![WhatsApp Image 2021-10-26 at 1 02 42 PM](https://user-images.githubusercontent.com/47845585/138830172-0d0c0e2b-2b13-48d4-9119-adf7d248bf88.jpeg)
 
 
 ## Code scaffolding
